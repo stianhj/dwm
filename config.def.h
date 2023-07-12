@@ -35,6 +35,7 @@ static const Rule rules[] = {
 	 */
 	/* class      instance    title       tags mask     iscentered   isfloating   monitor */
 	{ "Sxiv",     NULL,       NULL,       0,            1,		 1,           -1 },
+	{ "fceux",    NULL,       NULL,       0,            1,		 1,           -1 },
 };
 
 /* layout(s) */
