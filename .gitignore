@@ -3,3 +3,5 @@ dwm
 config.h
 *.orig
 *.rej
+.ccls-cache/
+compile_commands.json
